@@ -1,7 +1,8 @@
-//  If else exercises
-let son = 1
-if (son > 0){
-    console.log(++son);
-}else {
-    console.log(son);
-}
+// #1  berilgan stringni teskarisiga chiqarish
+
+let str = "webbrain";
+let res = str.split("").reverse().join("");
+console.log(res);
+
+// #2 
+
