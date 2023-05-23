@@ -36,9 +36,28 @@
 
 
 
-let message = "Send me message";
-let newMessage = message.replace("Send", "send").replace("message", "Message");
-console.log(newMessage);
+// let message = "Send me message";
+// let newMessage = message.replace("Send", "send").replace("message", "Message");
+// console.log(newMessage);
 
+// let str = "Abdulloh ishla"; 
+// function kk(str) {
+//     str.split("");
+//     let res = str.toLocaleLowerCase().split("");
+//     let res2 = 1;
+//     for (let i = 0; i < res.length; i++) {
+//         if (res[i] == " ") {
+//             res2 += i;
+//         }
+//     }
+//     if (str[0] == str[0].toLocaleLowerCase()) {
+//         res[0] = res[0].toUpperCase();
+//     } else {
+//         res[0] = res[0].toLowerCase();
+//         res[res2] = res[res2].toUpperCase();
+//     }
+//     console.log(res.toString().replaceAll(",", ""));
+// }
 
+// kk(str);
 
