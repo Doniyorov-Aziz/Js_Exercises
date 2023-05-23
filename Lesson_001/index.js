@@ -33,3 +33,12 @@
 
 // let num = "webbbbbbrain"
 // console.log(num.replace("b"," "));
+
+
+
+let message = "Send me message";
+let newMessage = message.replace("Send", "send").replace("message", "Message");
+console.log(newMessage);
+
+
+
