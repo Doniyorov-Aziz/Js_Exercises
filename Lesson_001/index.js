@@ -28,19 +28,17 @@
 
 // let obj = {
 // name,
-// }   
+// }
 // console.log(obj.name);
 
 // let num = "webbbbbbrain"
 // console.log(num.replace("b"," "));
 
-
-
 // let message = "Send me message";
 // let newMessage = message.replace("Send", "send").replace("message", "Message");
 // console.log(newMessage);
 
-// let str = "Abdulloh ishla"; 
+// let str = "web Brain";
 // function kk(str) {
 //     str.split("");
 //     let res = str.toLocaleLowerCase().split("");
@@ -61,3 +59,5 @@
 
 // kk(str);
 
+// log
+// ===========
