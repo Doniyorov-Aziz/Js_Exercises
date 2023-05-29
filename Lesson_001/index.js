@@ -62,3 +62,7 @@
 // log
 // ==========
 // ===========
+
+// let str = "webbrain academy"
+// let res = str.split("").reverse().join(" ")
+// console.log(res);
