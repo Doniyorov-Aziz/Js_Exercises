@@ -67,9 +67,7 @@
 // let res = str.split("").reverse().join(" ")
 // console.log(res);
 
-
 ////////////////////////////////////
-
 
 // for (var i = 1; i <= 10; i++) {
 // }
@@ -78,3 +76,12 @@
 // console.log([1,2,3].concat([4,5,6,7]));
 
 // console.log(eval([1,2,3,4,5,6,7,8,9].join('+')));
+
+// let str = "webbrain";
+// for (i in str) {
+//   console.log(str[str.length - 1 - i]);
+// }
+
+// let str1 = "webbrain"
+// let res = str1.split("").reverse().join("")
+// console.log(res);
